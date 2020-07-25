@@ -23,7 +23,7 @@
 ---- 
 
 Hi, I'm Aryclenio, but you can call me **Ary**. 
-I'm a Front-end Typescript Developer from Brazil 💚, 22 years old and 10 of coding. **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** fan 🗡. 
+I'm a Front-end Typescript Developer from Brazil 💚, **22 years**👶🏻 old and **8 years of coding**🧐. **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** fan 🗡. 
 
 * ✏ Weekly writer on dev.to, [follow me](https://dev.to/aryclenio). 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
