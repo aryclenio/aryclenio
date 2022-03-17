@@ -55,5 +55,5 @@ I'm a Front-end Typescript Developer from Brazil 💚, **24 years old** 👶🏻
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryclenio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryclenio&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
